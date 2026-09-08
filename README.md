@@ -89,15 +89,19 @@ Back to Shop
 
 ---
 
-![Shop Screen](screenshots/screenshots_shop.png)
+## Screenshots
 
-![Marketplace Screen](screenshots/screenshots_marketplace.png)
+### Shop
+![Shop Screen](screenshots/screenshots_shop)
 
-![Product Details Screen](screenshots/screenshots_product_details.png)
+### 1Fi Marketplace
+![Marketplace Screen](screenshots/screenshots_marketplace)
 
-![Checkout Screen](screenshots/screenshots_checkout.png)
+### Product Details
+![Product Details Screen](screenshots/screenshots_product_details)
 
-![Order Confirmation Screen](screenshots/screenshots_order_placed.png)
+### Checkout
+![Checkout Screen](screenshots/screenshots_checkout)
+
 ### Order Confirmation
-
-![Order Confirmation Screen](screenshots/screenshots_order_placed.png)
+![Order Confirmation Screen](screenshots/screenshots_order_placed)
