@@ -89,24 +89,15 @@ Back to Shop
 
 ---
 
-## Screenshots
-
-### Shop
-
 ![Shop Screen](screenshots/screenshots_shop.png)
-
-### 1Fi Marketplace
 
 ![Marketplace Screen](screenshots/screenshots_marketplace.png)
 
-### Product Details
-
 ![Product Details Screen](screenshots/screenshots_product_details.png)
-
-### Checkout
 
 ![Checkout Screen](screenshots/screenshots_checkout.png)
 
+![Order Confirmation Screen](screenshots/screenshots_order_placed.png)
 ### Order Confirmation
 
 ![Order Confirmation Screen](screenshots/screenshots_order_placed.png)
