@@ -86,22 +86,3 @@ Place Order
 Order Confirmation
   ↓
 Back to Shop
-
----
-
-## Screenshots
-
-### Shop
-![Shop Screen](screenshots/screenshots_shop)
-
-### 1Fi Marketplace
-![Marketplace Screen](screenshots/screenshots_marketplace)
-
-### Product Details
-![Product Details Screen](screenshots/screenshots_product_details)
-
-### Checkout
-![Checkout Screen](screenshots/screenshots_checkout)
-
-### Order Confirmation
-![Order Confirmation Screen](screenshots/screenshots_order_placed)
